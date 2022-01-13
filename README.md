@@ -1,8 +1,4 @@
-- Hi, I’m Ramadhan Angga
-- My username GitHub @zephyhub
-- How to reach me ramadhananggayudhanto@gmail.com
+<h1 align="center">Hi 👋, I'm Ramadhan Angga</h1>
+<h3 align="center">Just want to have fun in the world of android development</h3>
 
-<!---
-zephyhub/zephyhub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me **ramadhananggayudhanto@gmail.com**
